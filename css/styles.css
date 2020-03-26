@@ -4,3 +4,10 @@
       color: white;
     }
 }
+
+@media screen and (max-width: 480px) {
+  body {
+    background-color: darkorange;
+    color: black;
+  }
+}
